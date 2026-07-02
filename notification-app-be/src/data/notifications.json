@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "type": "info",
+    "title": "Server Maintenance",
+    "message": "Scheduled maintenance from 10 PM to 11 PM.",
+    "category": "System",
+    "priority": "Medium",
+    "read": false,
+    "timestamp": "2026-07-02T09:00:00Z"
+  },
+  {
+    "id": 2,
+    "type": "warning",
+    "title": "Password Expiry",
+    "message": "Your password will expire in 3 days.",
+    "category": "Security",
+    "priority": "High",
+    "read": true,
+    "timestamp": "2026-07-01T14:30:00Z"
+  },
+  {
+    "id": 3,
+    "type": "success",
+    "title": "Profile Updated",
+    "message": "Your profile information has been updated successfully.",
+    "category": "Account",
+    "priority": "Low",
+    "read": false,
+    "timestamp": "2026-07-01T18:20:00Z"
+  },
+  {
+    "id": 4,
+    "type": "error",
+    "title": "Payment Failed",
+    "message": "We couldn't process your subscription payment.",
+    "category": "Billing",
+    "priority": "High",
+    "read": false,
+    "timestamp": "2026-07-02T07:45:00Z"
+  }
+]
